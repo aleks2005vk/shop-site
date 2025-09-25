@@ -1,3 +1,11 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your global styles here */
+
+/* --- Appended from src/styles/index.css --- */
+
 /* ======= Начало: вставь в начало src/index.css ======= */
 /* Подключение шрифта (если уже подключён в index.html — можно удалить) */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
@@ -66,3 +74,4 @@ body {
   gap: 18px;
 }
 /* ======= Конец вставки ======= */
+
